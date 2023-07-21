@@ -1,14 +1,14 @@
-##employee-tracker
+## employee-tracker
 
-#description
+# description
 
 for this project made a code to were we can track employee data by using Node.js and mysql
 
-#installation 
+# installation 
 
 the following will need to be installed to work: node.js, inquirer package
 
-#sites 
+# sites 
 
 i used mulitiple site to help me out w3school for alot of it, and i also use stackoverflow, and youtube videos to help explain some area i needed.
 
